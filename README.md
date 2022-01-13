@@ -4,3 +4,6 @@ YT Link for reference: https://www.youtube.com/watch?v=RGOj5yH7evk&t=7s
 
 # Documentation
 https://docs.github.com/en
+
+# Practice
+Try uploading old programs from backup folders into GitHub. 
